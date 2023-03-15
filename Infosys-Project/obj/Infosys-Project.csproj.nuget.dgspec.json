@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\aspnetcore\\Infosys-Project-Solution\\Infosys-Project\\Infosys-Project.csproj": {}
+    "C:\\aspnetcore\\Simran\\infyrepo\\Infosys-Project\\Infosys-Project.csproj": {}
   },
   "projects": {
-    "C:\\aspnetcore\\Infosys-Project-Solution\\Infosys-Project\\Infosys-Project.csproj": {
+    "C:\\aspnetcore\\Simran\\infyrepo\\Infosys-Project\\Infosys-Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\aspnetcore\\Infosys-Project-Solution\\Infosys-Project\\Infosys-Project.csproj",
+        "projectUniqueName": "C:\\aspnetcore\\Simran\\infyrepo\\Infosys-Project\\Infosys-Project.csproj",
         "projectName": "Infosys-Project",
-        "projectPath": "C:\\aspnetcore\\Infosys-Project-Solution\\Infosys-Project\\Infosys-Project.csproj",
+        "projectPath": "C:\\aspnetcore\\Simran\\infyrepo\\Infosys-Project\\Infosys-Project.csproj",
         "packagesPath": "C:\\Users\\SiddharthDwivedi\\.nuget\\packages\\",
-        "outputPath": "C:\\aspnetcore\\Infosys-Project-Solution\\Infosys-Project\\obj\\",
+        "outputPath": "C:\\aspnetcore\\Simran\\infyrepo\\Infosys-Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SiddharthDwivedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
